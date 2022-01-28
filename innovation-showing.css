@@ -1,0 +1,42 @@
+body {
+	text-align: center;
+	background: #f12711;
+	/* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #f5af19, #f12711);
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #f5af19, #f12711);
+}
+
+#bioprint {
+	width: 370px;
+	height: 225px;
+}
+
+#robo {
+	width: 370px;
+	height: 225px;
+}
+
+.buttons {
+	background: green;
+	color: black;
+	border-radius: 20px;
+	height: 40px;
+	vertical-align: center;
+	margin-top: 40px;
+	margin-right: 100px;
+    font-size: 25px;
+}
+h4 {
+	font-size: 30px;
+	color: black;
+}
+
+p {
+	font-size: 20px;
+	color: black;
+}
+
+h1 {
+	font-size: 36px;
+}
